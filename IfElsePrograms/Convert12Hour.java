@@ -12,7 +12,7 @@ public class Convert12Hour{
 								System.out.println(h+":"+m+" AM");
 						}
 						else{
-								System.out.println(h+":"+m+" AM");
+								 System.out.println(h+":"+m+" AM");
 						}
 				}
 				else{
